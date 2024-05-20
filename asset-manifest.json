@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SCP-React-JS/static/css/main.3db6233e.css",
+    "main.js": "/SCP-React-JS/static/js/main.0d17ad1e.js",
+    "index.html": "/SCP-React-JS/index.html",
+    "main.3db6233e.css.map": "/SCP-React-JS/static/css/main.3db6233e.css.map",
+    "main.0d17ad1e.js.map": "/SCP-React-JS/static/js/main.0d17ad1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db6233e.css",
+    "static/js/main.0d17ad1e.js"
+  ]
+}
